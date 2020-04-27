@@ -1,0 +1,8 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/Bonillop/telecom-challenge-back.git
+	branch = master
+[submodule "front"]
+	path = front
+	url = https://github.com/Bonillop/telecom-challenge-front.git
+	branch = master
