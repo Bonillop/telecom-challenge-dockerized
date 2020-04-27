@@ -2,6 +2,11 @@
 
 Esta es la aplicacion Clima app, desarrollada como challenge para Telecom y dockerizada
 ***
+## Instalación
+Antes que nada deberá utilizarse el siguiente comando para la instalación de dependencias que utiliza la aplicación
+>`npm install`
+
+Esto debe realizarse en ambos directorios `/back` y `/front`
 
 ## Uso
 Para utilizarla será necesario tener instalado docker, luego en el directorio `/docker` deberá ejecutar el siguiente comando 
